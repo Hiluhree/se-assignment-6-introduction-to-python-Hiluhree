@@ -29,8 +29,8 @@ Answer the following questions based on your understanding of Python programming
     ii. Run the installer and ensure the option "Add Python to PATH" is checked.
     iii. Follow the installation prompts.
   #### MacOS
-    i. Open the terminal.
-    ii. Install Homebrew if not already installed
+   i. Open the terminal.
+   ii. Install Homebrew if not already installed
         - /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 
