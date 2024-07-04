@@ -40,7 +40,23 @@ Answer the following questions based on your understanding of Python programming
       sudo apt update
     - Install Python
       sudo apt install python3
-3. Python Syntax and Semantics:
+
+   #### Verify Installation:
+    - Open a terminal or command prompt.
+    - Type
+      python --version or
+      python3 --version
+   #### Setting up a Virtual Environment:
+      Open a terminal or command prompt.
+      Navigate to your project directory.
+      Create a virtual environment
+       python -m venv myenv
+      Activate the virtual environment
+       Windows
+        myenv\Scripts\activate
+       MacOS/Linux
+        source myenv/bin/activate
+  ## 3. Python Syntax and Semantics:
    - Write a simple Python program that prints "Hello, World!" to the console. Explain the basic syntax elements used in the program.
 
 4. Data Types and Variables:
