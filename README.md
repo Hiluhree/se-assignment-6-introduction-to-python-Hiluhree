@@ -32,8 +32,14 @@ Answer the following questions based on your understanding of Python programming
     - Open the terminal.
     - Install Homebrew if not already installed
         - /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-
-
+    - Install Python
+        - brew install python
+   #### Linux:
+    - Open the terminal.
+    - Update the package list
+      sudo apt update
+    - Install Python
+      sudo apt install python3
 3. Python Syntax and Semantics:
    - Write a simple Python program that prints "Hello, World!" to the console. Explain the basic syntax elements used in the program.
 
