@@ -74,6 +74,39 @@ Answer the following questions based on your understanding of Python programming
     tuple: Ordered, immutable collection of items.
     dict: Collection of key-value pairs.
     set: Unordered collection of unique items.
+   #### Script
+    # Integer
+    age = 30
+    print(age)
+    
+    # Float
+    height = 5.9
+    print(height)
+    
+    # String
+    name = "Alice"
+    print(name)
+    
+    # Boolean
+    is_student = True
+    print(is_student)
+    
+    # List
+    colors = ["red", "green", "blue"]
+    print(colors)
+    
+    # Tuple
+    coordinates = (10, 20)
+    print(coordinates)
+    
+    # Dictionary
+    person = {"name": "Bob", "age": 25}
+    print(person)
+    
+    # Set
+    unique_numbers = {1, 2, 3, 4, 4}
+    print(unique_numbers)
+
 5. Control Structures:
    - Explain the use of conditional statements and loops in Python. Provide examples of an `if-else` statement and a `for` loop.
 
