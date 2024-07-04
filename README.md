@@ -63,9 +63,17 @@ Answer the following questions based on your understanding of Python programming
      - print: A built-in function that outputs data to the console.
      - "Hello, World!": A string literal enclosed in double quotes, which is the message to be printed.
 
-4. Data Types and Variables:
-   - List and describe the basic data types in Python. Write a short script that demonstrates how to create and use variables of different data types.
-
+  ## 4. Data Types and Variables:
+   #### List and describe the basic data types in Python. Write a short script that demonstrates how to create and use variables of different data types.
+   ##### Basic Data Types:
+    int: Integer values.
+    float: Floating-point numbers.
+    str: String of characters.
+    bool: Boolean values (True or False).
+    list: Ordered collection of items.
+    tuple: Ordered, immutable collection of items.
+    dict: Collection of key-value pairs.
+    set: Unordered collection of unique items.
 5. Control Structures:
    - Explain the use of conditional statements and loops in Python. Provide examples of an `if-else` statement and a `for` loop.
 
