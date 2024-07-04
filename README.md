@@ -31,7 +31,7 @@ Answer the following questions based on your understanding of Python programming
   #### MacOS
 i. Open the terminal.
 ii. Install Homebrew if not already installed
-    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    - /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 
 3. Python Syntax and Semantics:
